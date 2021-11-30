@@ -21,7 +21,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leort-z&layout=compact&theme=vision-friendly-dark" alt="leortz's most used languages"/>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leort-z&layout=compact&theme=vision-friendly-dark" alt="leortz's most used languages"/>
 
 ## 📩 &nbsp; Contato
 
