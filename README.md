@@ -1,7 +1,7 @@
 
 <h1> Olá, eu sou o Leonardo Teixeira, desenvolvedor Front-End! 🧪 </h1>
   
-<img align="right" height="570em" src="https://raw.githubusercontent.com/gist/Leort-z/04f3beda4245051dc2e4414900a54461/raw/87700a1a22a3940eeb182d673587c599fb5b70c0/card.svg"/>
+<img align="right" height="540em" src="https://raw.githubusercontent.com/gist/Leort-z/04f3beda4245051dc2e4414900a54461/raw/87700a1a22a3940eeb182d673587c599fb5b70c0/card.svg"/>
 
 - 🚀 Front-End web developer
 - 🔬 HTML | CSS | JS | ReactJS | NextJS
